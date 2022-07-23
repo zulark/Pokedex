@@ -87,7 +87,7 @@ main {
 
 .buttons {
     position: absolute;
-    bottom: 10%;
+    bottom: 9%;
     left: 50%;
     width: 65%;
     transform: translate(-57%, 0);
